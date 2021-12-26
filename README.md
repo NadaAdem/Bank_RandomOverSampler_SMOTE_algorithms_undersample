@@ -18,15 +18,17 @@ In random oversampling, instances of the minority class are randomly selected an
 - High-Risk Precision: 0.01
 - High-Risk Recall: 0.74
 
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/native%20random%20oversampling.png)
+
 
 ### Oversampling: Native Random Oversampling
 Synthetic Minority Oversampling Technique (SMOTE) is an oversampling approach to deal with unbalanced datasets.
 
 - Balanced Accurracy Score: 0.662
 - High-Risk Precision: 0.01
-High-Risk Recall: 0.63
+- High-Risk Recall: 0.63
 
-
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/native%20random%20oversampling.png)
 
 ### Oversampling: SMOTE
 In random undersampling, instances are randomly selected from the majority class and removed until the size of the majority class is reduced (typically to the size of the minority class).
@@ -34,6 +36,8 @@ In random undersampling, instances are randomly selected from the majority class
 Balanced Accurracy Score: 0.662
 High-Risk Precision: 0.01
 High-Risk Recall: 0.63
+
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/SOMTE%20Oversampling.png)
 
 ### Undersampling: Random Undersampling
 
@@ -43,12 +47,16 @@ Balanced Accurracy Score: 0.662
 High-Risk Precision: 0.01
 High-Risk Recall: 0.63
 
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/undersampling.png)
+
 ### Combination Sampling: SMOTEENN
 In random undersampling, instances are randomly selected from the majority class and removed until the size of the majority class is reduced (typically to the size of the minority class).
 
 Balanced Accurracy Score: 0.662
 High-Risk Precision: 0.01
 High-Risk Recall: 0.63
+
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/SOMTE%20Oversampling.png)
 
 ### Balanced Random Forest Classifier
 
@@ -58,6 +66,8 @@ Balanced Accurracy Score: 0.788
 High-Risk Precision: 0.03
 High-Risk Recall: 0.70
 
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/balanced%20Random.png)
+
 ### Easy Ensemble AdaBoost Classifier
 Easy Ensemble AdaBoost Classifier
 Bag of balanced boosted learners also known as EasyEnsemble. The balancing is achieved by random under-sampling.
@@ -66,6 +76,7 @@ Balanced Accurracy Score: 0.931
 High-Risk Precision: 0.09
 High-Risk Recall: 0.92
 
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/Easy%20Ensemble%20AdaBoost.png)
 
 ## Summary
 
