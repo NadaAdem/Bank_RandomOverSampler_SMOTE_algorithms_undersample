@@ -49,7 +49,7 @@ Clean the resulting data with an undersampling strategy.
 - High-Risk Precision: 0.01
 - High-Risk Recall: 0.72
 
-![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/SOMTE%20Oversampling.png)
+![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/Somteenn.png)
 
 ### Balanced Random Forest Classifier
 
