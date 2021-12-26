@@ -42,11 +42,12 @@ In random undersampling, instances are randomly selected from the majority class
 ![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/undersampling.png)
 
 ### Combination Sampling: SMOTEENN
-In random undersampling, instances are randomly selected from the majority class and removed until the size of the majority class is reduced (typically to the size of the minority class).
+SMOTEENN is combination of SMOTE and Edited Nearest Neighbor (ENN) algorithms. Oversample the minority class with SMOTE.
+Clean the resulting data with an undersampling strategy.
 
-- Balanced Accurracy Score: 0.662
+- Balanced Accurracy Score: 0.644
 - High-Risk Precision: 0.01
-- High-Risk Recall: 0.63
+- High-Risk Recall: 0.72
 
 ![image](https://github.com/NadaAdem/Credit_Risk_Analysis/blob/main/image/SOMTE%20Oversampling.png)
 
