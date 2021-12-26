@@ -12,12 +12,9 @@ The purpose of this project is to use different techniques to train and evaluate
 
 ## Results
 
-In random oversampling, instances of the minority class are randomly selected and added to the training set until the majority and minority classes are balanced.
-
-
-
 ### Oversampling: Native Random Oversampling
-Synthetic Minority Oversampling Technique (SMOTE) is an oversampling approach to deal with unbalanced datasets.
+
+In random oversampling, instances of the minority class are randomly selected and added to the training set until the majority and minority classes are balanced.
 
 - Balanced Accurracy Score: 0.674
 - High-Risk Precision: 0.01
