@@ -6,7 +6,7 @@ The purpose of this project is to use different techniques to train and evaluate
 ## Software
 - Python 3.7
 - SciPy 1.6.2
-- Scikit-learn 0.24.1
+- Scikit-learn 0.1
 - imbalanced-learn 0.80
 
 
